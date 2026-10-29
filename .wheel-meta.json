@@ -1,0 +1,22 @@
+{
+  "wheel_id": 495,
+  "structure": "umbrella",
+  "slug": "homeloanbrokeripswich-104",
+  "project": "mortgage-broker-ipswich-questions-to-ask-a193f52cf18be59729b01c",
+  "parent_t1_ref": "homeloanbrokeripswich-151",
+  "node_role": "feeder",
+  "money_target": "homeloanbrokeripswich.com.au",
+  "primary_kw": "mortgage broker ipswich questions to ask",
+  "intended_url": "https://aumedia.neocities.org/mortgage-broker-ipswich-questions-to-ask-a193f52cf18be59729b01c/",
+  "tier": "T2",
+  "writeback_nonce": "2bd51c1e4222de71",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/homeloanbrokeripswich-151/",
+      "anchor": "https://sitesau.github.io/homeloanbrokeripswich-151/",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "url"
+    }
+  ]
+}
